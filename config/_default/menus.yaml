@@ -1,0 +1,35 @@
+leftnav:
+- identifier: b97ae2d3-104a-e27b-0410-a593e882957b
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 4787176f-61e2-d295-ff29-b0f18d54810a
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: bd65e359-cee2-46bf-867f-da1818575e1b
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 26fed574-b057-3057-e80d-2ff17969e6d1
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: fc8a6214-6ab1-0cd2-3caf-3ab1c1ec1bb5
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 50
+- identifier: 29b168cf-729a-8ac4-6710-1f100a520b62
+  name: First Paper Assignment
+  pageRef: /pages/assignments/first-paper-assignment
+  parent: fc8a6214-6ab1-0cd2-3caf-3ab1c1ec1bb5
+  weight: 60
+- identifier: 310c422f-3a55-67c9-0598-7574d7514d48
+  name: Second Paper Assignment
+  pageRef: /pages/assignments/second-paper-assignment
+  parent: fc8a6214-6ab1-0cd2-3caf-3ab1c1ec1bb5
+  weight: 70
+- identifier: 15ed2d23-de9b-73c8-cecd-a7c8e4581d72
+  name: Exams
+  pageRef: /pages/exams
+  weight: 80

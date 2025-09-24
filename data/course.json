@@ -1,0 +1,60 @@
+{
+  "term": "Spring",
+  "year": "2018",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Military History"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Military Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Security Studies"
+    ]
+  ],
+  "legacy_uid": "9c425f4c-bc43-7166-67e2-d9ae2787a5a0",
+  "instructors": {
+    "content": [
+      "555a4b0b-fd37-ef29-e364-4b6d9753b702"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "294dc796-f07b-8dee-512f-76ce7b841dd7",
+    "website": "17-42-causes-and-prevention-of-war-spring-2018"
+  },
+  "course_title": "Causes and Prevention of War",
+  "course_description": "This course examines the causes of war, with a focus on practical measures to prevent and control war. Topics include causes and consequences of misperception by nations; military strategy and policy as cause of war; religion and war; U.S. foreign policy as a cause of war and peace; and the likelihood and possible nature of great wars in the future.\n\nThe historical cases covered include World War I, World War II, the Korean War, the Seven Years' War, the Arab-Israel conflict, other recent Mideast wars, and the Peloponnesian War.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.42",
+  "course_image_thumbnail": {
+    "content": "3cf5956c-5761-cebe-a260-a61c9806c631",
+    "website": "17-42-causes-and-prevention-of-war-spring-2018"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "7fc6cca6-269f-436b-8bfe-3788b37968ba",
+  "site_short_id": "17.42-spring-2018",
+  "site_url_path": "courses/17-42-causes-and-prevention-of-war-spring-2018",
+  "title": "Course Metadata"
+}
