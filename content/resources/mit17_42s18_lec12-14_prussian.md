@@ -4,6 +4,8 @@ description: ''
 file: /courses/17-42-causes-and-prevention-of-war-spring-2018/035590cbbc067a10812f29f12975e953_MIT17_42S18_lec12-14_Prussian.pdf
 file_size: 38481
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

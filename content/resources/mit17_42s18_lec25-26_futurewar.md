@@ -4,6 +4,8 @@ description: ''
 file: /courses/17-42-causes-and-prevention-of-war-spring-2018/5b70a4bc81b4df1d2df5bad9d4dee646_MIT17_42S18_lec25-26_FutureWar.pdf
 file_size: 73618
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

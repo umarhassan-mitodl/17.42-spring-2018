@@ -4,6 +4,8 @@ description: ''
 file: /courses/17-42-causes-and-prevention-of-war-spring-2018/f9dd7d01c41ef6951def531f48ec577c_MIT17_42S18_lec10_GreatWars.pdf
 file_size: 23407
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

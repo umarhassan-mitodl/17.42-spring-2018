@@ -28,11 +28,11 @@ Your papers are due during Session 13. You are not required to do outside readin
 
 *An informative extra-reading article:*
 
-Higonnet, Patrice Louis-René. "{{% resource_link "2acaa608-2d55-4d2f-b987-dbf9a694c1f5" "The Origins of the Seven Years War" %}}." *Journal of Modern History* 40, no. 1 (1968), pp. 57–90.
+Higonnet, Patrice Louis-René. "[The Origins of the Seven Years War](https://www.journals.uchicago.edu/doi/10.1086/240165)." *Journal of Modern History* 40, no. 1 (1968), pp. 57–90.
 
 *Two additional extra readings:*
 
-Anderson, Fred.  *The War That Made America: A Short History of the French and Indian War*. Penguin Books, 2006. ISBN: 9780143038047. \[Preview with {{% resource_link "19fab7d6-9e24-4c25-957c-92d80a8a6ad7" "Google Books" %}}\]
+Anderson, Fred.  *The War That Made America: A Short History of the French and Indian War*. Penguin Books, 2006. ISBN: 9780143038047. \[Preview with [Google Books](https://books.google.com/books?id=z1VgZ1qM-NQC&pg=PAfrontcover#v=onepage&q&f=false)\]
 
 Black, Jeremy, ed. *The Origins of War in Early Modern Europe*. John Donald, 1987. ISBN: 9780859761680. 
 
@@ -48,7 +48,7 @@ If you want to write on another topic, say so and we will consider it.
 
 Also, please familiarize yourself with the rules of citing sources and make sure you follow them. Failure to cite sources properly is plagiarism.
 
-For more great writing advice, MIT students should consult the {{% resource_link "7513f540-baf1-410f-926c-f130f6953154" "MIT Writing and Communication Center" %}}.
+For more great writing advice, MIT students should consult the [MIT Writing and Communication Center](https://cmsw.mit.edu/writing-and-communication-center/).
 
 *Student Example*
 

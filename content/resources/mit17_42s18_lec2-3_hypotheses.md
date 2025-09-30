@@ -4,6 +4,8 @@ description: ''
 file: /courses/17-42-causes-and-prevention-of-war-spring-2018/c8e7c72be2cee940e586d9dcdeb83458_MIT17_42S18_lec2-3_Hypotheses.pdf
 file_size: 50323
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

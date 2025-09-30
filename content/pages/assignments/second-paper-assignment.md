@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains information needed to complete the second paper
   assignment.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -36,7 +38,7 @@ You should get a draft of your paper to your TA a week before the due date deadl
 
 You should footnote statements of fact, using an abbreviated footnote style if you wish. Footnotes do not count toward the length-limit on your paper so use them freely.
 
-For more great writing advice, MIT students should consult the {{% resource_link "7513f540-baf1-410f-926c-f130f6953154" "MIT Writing and Communication Center" %}}.
+For more great writing advice, MIT students should consult the [MIT Writing and Communication Center](https://cmsw.mit.edu/writing-and-communication-center/).
 
 _Student Example_
 
