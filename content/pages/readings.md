@@ -10,17 +10,17 @@ uid: bd65e359-cee2-46bf-867f-da1818575e1b
 ---
 \[G\] = Geiss, Imanuel. *German Foreign Policy, 1871–1914*. Routledge & Kegan Paul Books, 1979. ISBN: 9780710083036. 
 
-\[H\] = Haffner, Sebastian. *The Meaning of Hitler*. Translated by Ewald Osers. Harvard University Press, 1983. ISBN: 9780674557758. \[Preview with [Google Books](https://books.google.com/books?id=k2-ZkIvt35QC&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[H\] = Haffner, Sebastian. *The Meaning of Hitler*. Translated by Ewald Osers. Harvard University Press, 1983. ISBN: 9780674557758. \[Preview with {{% resource_link "bbc7bae3-1de3-4c78-9e9c-4ee2728c9dae" "Google Books" %}}\]
 
-\[I\] = Ienaga, Saburō. *The Pacific War, 1931–1945: A Critical Perspective on Japan's Role in World War II by a Leading Japanese Scholar*. Pantheon Books, 1978. ISBN: 9780394734965. \[Preview with [Google Books](https://books.google.com/books?id=49bWRrBQP74C&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[I\] = Ienaga, Saburō. *The Pacific War, 1931–1945: A Critical Perspective on Japan's Role in World War II by a Leading Japanese Scholar*. Pantheon Books, 1978. ISBN: 9780394734965. \[Preview with {{% resource_link "d69b2600-637d-48d1-b238-5ec916a46467" "Google Books" %}}\]
 
-\[IK\] = Iklé, Fred Charles. *Every War Must End*. Revised edition. Columbia University Press, 2005. ISBN: 9780231136679. \[Preview with [Google Books](https://books.google.com/books?id=WXswYABYlJ4C&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[IK\] = Iklé, Fred Charles. *Every War Must End*. Revised edition. Columbia University Press, 2005. ISBN: 9780231136679. \[Preview with {{% resource_link "2c68e7fd-4e97-4483-bceb-ea39e94c3d0b" "Google Books" %}}\]
 
 \[P\] = Palmer, R.R., and Joel Colton. *A History of the Modern World*. 7th edition. McGraw-Hill College, 1991. ISBN: 9780075574170.
 
-\[R\] = Rees, Sir Martin. *Our Final Hour: A Scientist's Warning: How Terror, Error, and Environmental Disaster Threaten Humankind's Future in this Century-On Earth and Beyond*. Basic Books, 2004. ISBN: 9780465068630. \[Preview with [Google Books](https://books.google.com/books?id=2NNfIXyttn4C&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[R\] = Rees, Sir Martin. *Our Final Hour: A Scientist's Warning: How Terror, Error, and Environmental Disaster Threaten Humankind's Future in this Century-On Earth and Beyond*. Basic Books, 2004. ISBN: 9780465068630. \[Preview with {{% resource_link "b1b095e6-521e-4532-b86e-11e7a30528d9" "Google Books" %}}\]
 
-\[RO\] = Röhl, John C.G. *Kaiser Wilhelm II, 1859–1941: A Concise Life.* Translated by Sheila de Bellaigue. Cambridge University Press, 2014. ISBN: 9781107420779. \[Preview with [Google Books](https://books.google.com/books?id=wf8OBAAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[RO\] = Röhl, John C.G. *Kaiser Wilhelm II, 1859–1941: A Concise Life.* Translated by Sheila de Bellaigue. Cambridge University Press, 2014. ISBN: 9781107420779. \[Preview with {{% resource_link "6fa957a1-0d2c-42dd-bea6-20c9f2b4a048" "Google Books" %}}\]
 
 \[T\] = Thucydides. *History of the Peloponnesian War.* Translated by Rex Warner. Penguin Classics, 1972. ISBN: 9780140440393. 
 
@@ -64,25 +64,25 @@ Schelling, Thomas C. "The Dynamics of Mutual Alarm." Chapter 6 in *Arms and Infl
 
 *The classic statement of "stability theory," which posits that war is more likely when the side that strikes first has the advantage. States will then launch war in hopes of gaining the first-strike advantage, or denying it to their adversary, especially if they expect war.*
 
-Narang, Vipin. "[Why Kim Jong Un Wouldn't Be Irrational to Use a Nuclear Bomb First](https://www.washingtonpost.com/outlook/why-kim-jong-un-wouldnt-be-irrational-to-use-a-nuclear-bomb-first/2017/09/08/a9d36ca4-934f-11e7-aace-04b862b2b3f3_story.html?utm_term=.7ebc4193091e)," *Washington Post,* September 8, 2017.
+Narang, Vipin. "{{% resource_link "9d8b5f81-f5ce-4c19-924a-148aa5a4f555" "Why Kim Jong Un Wouldn't Be Irrational to Use a Nuclear Bomb First" %}}," *Washington Post,* September 8, 2017.
 
 *An extension of the stability theory argument outlined in the previous reading by Schelling, "Dynamics of Mutual Alarm," to a current crisis. Narang warns that North Korean dictator Kim Jong Un may conclude that striking first with nuclear weapons is his best option if he thinks war is inevitable. If so, is the U.S. wise to take steps (e.g., threatening tweets or a "bloody nose" limited attack) to convince Kim that he faces war?*
 
-Blainey, Geoffrey. "Dreams and Delusions of a Coming War." Chapter 3 in *The Causes of War.* 3rd edition. Free Press, 1988, ISBN: 9780029035917. \[Preview with [Google Books](https://books.google.com/books?id=Mcknp3tt0LMC&pg=PA35=onepage#v=onepage&q&f=false)\]
+Blainey, Geoffrey. "Dreams and Delusions of a Coming War." Chapter 3 in *The Causes of War.* 3rd edition. Free Press, 1988, ISBN: 9780029035917. \[Preview with {{% resource_link "89f61cdf-537a-4a8a-b807-867897f1d58c" "Google Books" %}}\]
 
 *False optimism about the likely results of war causes war.*
 
-Van Evera, Stephen. ["Offense/Defense Theory in a Nutshell." (PDF)](https://drive.google.com/file/d/1dlhW79Ah2I05ctRvkw8IcyvAtuKI8ZkA/view) August 27, 2017, revised March 7, 2018, pp. 1–11.
+Van Evera, Stephen. {{% resource_link "dc665cf6-b679-4c74-9e94-579cb7807347" "\"Offense/Defense Theory in a Nutshell.\" (PDF)" %}} August 27, 2017, revised March 7, 2018, pp. 1–11.
 
 *Your instructor summarizes the argument that states are more belligerent and war is more likely when conquest is easy. A related argument: international conflict arises largely from the "security dilemma"-the tendency of states to threaten others' security by their efforts to secure themselves.*
 
 *Can war be prevented by making conquest hard among potential belligerents? If so, how could this be done?*
 
-Fisher, Max. "[Hawaii False Alarm Hints at Thin Line Between Mishap and Nuclear War](https://www.nytimes.com/2018/01/14/world/asia/hawaii-false-alarm-north-korea-nuclear.html)," *New York Times*, January 14, 2018.
+Fisher, Max. "{{% resource_link "28e32937-142f-451d-a3b0-69a6ab39a1bf" "Hawaii False Alarm Hints at Thin Line Between Mishap and Nuclear War" %}}," *New York Times*, January 14, 2018.
 
 *Recommended additional reading*
 
-Dreazen, Yochi. "[Here’s What War with North Korea Would Look Like](https://www.vox.com/world/2018/2/7/16974772/north-korea-war-trump-kim-nuclear-weapon)." Vox. February 8, 2018.
+Dreazen, Yochi. "{{% resource_link "a5e71a56-d33f-4e83-8072-98f746483887" "Here’s What War with North Korea Would Look Like" %}}." Vox. February 8, 2018.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4–7
@@ -101,7 +101,7 @@ Misperception and War; Religion and War
 
 {{< tdclose >}}{{< tdopen >}}
 
-Gilbert, Daniel. "[He Who Cast the First Stone Probably Didn't](https://www.nytimes.com/2006/07/24/opinion/24gilbert.html)," *New York Times*, July 24, 2006.
+Gilbert, Daniel. "{{% resource_link "925017df-6883-4374-aa92-e05f893832af" "He Who Cast the First Stone Probably Didn't" %}}," *New York Times*, July 24, 2006.
 
 *Wars start because each side thinks the other provoked them, while they were behaving well.*
 
@@ -113,7 +113,7 @@ Jervis, Robert. "Deterrence, the Spiral Model, and Intentions of the Adversary."
 
 *Some say conflict is best resolved by the carrot, while using the stick merely provokes; others would use the stick, warning that using the carrot ("appeasement") emboldens others to make more demands. Who's right? Probably both--but under what circumstances? and how can you tell which circumstances you are in?*
 
-Van Evera, Stephen. "[Primed for Peace: Europe After the Cold War](https://www.jstor.org/stable/pdf/2538906.pdf?seq=1#page_scan_tab_contents)." *International Security* 15, no. 3 (1990 / 91): 7–57. \*Read pp. 18–25.
+Van Evera, Stephen. "{{% resource_link "e301fb91-f8ff-47e6-9b8b-d2c1b2f7405d" "Primed for Peace: Europe After the Cold War" %}}." *International Security* 15, no. 3 (1990 / 91): 7–57. \*Read pp. 18–25.
 
 *The theories of militarism and nationalist mythmaking are summarized here, and applied to the question of whether there will be war in contemporary Europe.*
 
@@ -121,15 +121,15 @@ Van Evera, Stephen. "[Primed for Peace: Europe After the Cold War](https://www.j
 
 *Nationalist mythmaking theory proposes that societies often infuse themselves with self-glorying, self- exculpating and other-blaming myths, especially by teaching chauvinist nationalist history in school; these myths promote conflict and war.*
 
-Hedges, Chris. "[Sarajevo Journal; In Bosnia's Schools, 3 Ways Never to Learn From History](https://www.nytimes.com/1997/11/25/world/sarajevo-journal-in-bosnia-s-schools-3-ways-never-to-learn-from-history.html)," *New York Times,* November 25, 1997.
+Hedges, Chris. "{{% resource_link "1ed52655-3d4c-41e4-b701-1bfcc0b29d93" "Sarajevo Journal; In Bosnia's Schools, 3 Ways Never to Learn From History" %}}," *New York Times,* November 25, 1997.
 
 *It has been said that "war begins in the classroom." True? Did the vicious Balkan wars of the 1990s stem from separate and divergent teaching of the past?*
 
-Tavernise, Sabrina. "[When History's Losers Write the Story](https://www.nytimes.com/2017/09/15/sunday-review/civil-war-statues-losers.html)," *New York Times,* September 15, 2017.
+Tavernise, Sabrina. "{{% resource_link "9f01743f-9de5-493a-a999-3c1cbc11168e" "When History's Losers Write the Story" %}}," *New York Times,* September 15, 2017.
 
 *The Russians now glorify Josef Stalin--who murdered Russians en masse! Wow! Southern white Americans deny, against overwhelming evidence, that the Confederacy started the civil war to preserve slavery. Does this denial help fuel white nationalism in the U.S. today?*
 
-Benjamin, Daniel, and Steven Simon. "Ibn Taymiyya and His Children." Chapter 2 in *The Age of Sacred Terror: Radical Islam's War Against America.* Random House Trade Paperbacks, 2003, pp. 38–55, 61–68, 91–94. ISBN: 9780812969849. \[Preview with [Google Books](https://books.google.com/books?id=-5VBDwAAQBAJ&pg=PA38=onepage#v=onepage&q&f=false)\]
+Benjamin, Daniel, and Steven Simon. "Ibn Taymiyya and His Children." Chapter 2 in *The Age of Sacred Terror: Radical Islam's War Against America.* Random House Trade Paperbacks, 2003, pp. 38–55, 61–68, 91–94. ISBN: 9780812969849. \[Preview with {{% resource_link "55bc4948-313e-4026-b02a-489ac7f7f256" "Google Books" %}}\]
 
 ———. "A World of Terror." Chapter 12 in *The Age of Sacred Terror: Radical Islam's War Against America*. Random House Trade Paperbacks, 2003. ISBN: 9780812969849. 
 
@@ -137,19 +137,19 @@ Benjamin, Daniel, and Steven Simon. "Ibn Taymiyya and His Children." Chapter 2 i
 
 *Chapter 12 covers the phenomenon of millenarianism (apocalyptic thinking) in other religions--Judaism, Buddhism, and Christianity. This violent, even genocidal (globacidal?) form of religious thought has appeared widely in the last three decades. Why? How can it be tamed before it is used to justify great horrors?*
 
-Manji, Irshad. "[Is Islam to Blame? Despite Claims of Moderate Muslims, a Literal Reading of the Koran Offers Cover for Acts of Terrorism](http://articles.latimes.com/2005/jul/22/opinion/oe-manji22)," *Los Angeles Times,* July 22, 2005.
+Manji, Irshad. "{{% resource_link "5044d586-61f9-4197-914f-3031b999b6c9" "Is Islam to Blame? Despite Claims of Moderate Muslims, a Literal Reading of the Koran Offers Cover for Acts of Terrorism" %}}," *Los Angeles Times,* July 22, 2005.
 
 *The Koran contains hateful passages and passages that incite to violence. What to do about them? Is it ok for Muslims to continue to declare that the entire Koran is the sacred word of God? What about Manji's suggestion that Muslims confess some "sins of Scripture"? Should all religions do this?*
 
-Ahmed, Issam. "[Pakistan: Do School Texts Fuel Bias?](https://www.csmonitor.com/World/Asia-South-Central/2009/0121/p04s03-wosc.html)," *Christian Science Monitor*, January 21, 2009.
+Ahmed, Issam. "{{% resource_link "aa5e7e80-f633-4bf2-a12e-759f571c5b6a" "Pakistan: Do School Texts Fuel Bias?" %}}," *Christian Science Monitor*, January 21, 2009.
 
 *Pakistan is rife with religious militancy and has an aggressive foreign policy. Some say the problem starts with Pakistani schoolbooks.*
 
-Lampman, Jane. "[Mixing Prophecy and Politics](https://www.csmonitor.com/2004/0707/p15s01-lire.html)," *Christian Science Monitor,* July 7, 2004.
+Lampman, Jane. "{{% resource_link "73348674-cd61-495d-9643-5818faed8ec7" "Mixing Prophecy and Politics" %}}," *Christian Science Monitor,* July 7, 2004.
 
 *Christians who are followers of premillennial dispensationalism oppose an Israel-Palestinian peace settlement. Their larger objective: destroying the world. Isn't that special.*
 
-Mishra, Pankaj. "[The Other Face of Fanaticism](https://www.nytimes.com/2003/02/02/magazine/the-other-face-of-fanaticism.html)," *New York Times Magazine,* February 2, 2003.
+Mishra, Pankaj. "{{% resource_link "de6919c4-11ad-4813-a6a2-e05fb690aa5a" "The Other Face of Fanaticism" %}}," *New York Times Magazine,* February 2, 2003.
 
 *The Hindu extremist movement of India is painted here.*
 
@@ -187,9 +187,9 @@ Bellak, Leopold. "Why I Fear the Germans," *New York Times*, April 4, 1990. 
 
 *Responses to Bellak:*
 
-Graf, Werner M., M.D. "[Letters: On Judging a Nation by Its Playgrounds](https://www.nytimes.com/1990/05/10/opinion/l-on-judging-a-nation-by-its-playgrounds-339790.html)," *New York Times*, May 10, 1990.
+Graf, Werner M., M.D. "{{% resource_link "961f8b47-d52e-48aa-80b7-508cbb21f4a0" "Letters: On Judging a Nation by Its Playgrounds" %}}," *New York Times*, May 10, 1990.
 
-Tobak, Mark, M.D. "[Letters: On Judging a Nation by Its Playgrounds; Bad Science](https://www.nytimes.com/1990/05/10/opinion/l-on-judging-a-nation-by-its-playgrounds-bad-science-518690.html)," *New York Times*, May 10, 1990.
+Tobak, Mark, M.D. "{{% resource_link "b0b8bb6c-7834-4ed7-b013-8db024e44068" "Letters: On Judging a Nation by Its Playgrounds; Bad Science" %}}," *New York Times*, May 10, 1990.
 
 Dolgin, Joseph. "Letters: On Judging a Nation by Its Playgrounds; Not Genetic," *New York Times*, May 10, 1990.
 
@@ -203,21 +203,21 @@ Goldstein, Joshua S., and John C. Pevehouse. "Gender Theories." Chapter 8 in *Pr
 
 *Yes, the problem is men! A good summary of feminist arguments on the causes of war.* *For a recent statement of the gender argument see:*
 
-Cohn, Carol.  "[The Perils of Mixing Masculinity and Missiles](https://www.nytimes.com/2018/01/05/opinion/security-masculinity-nuclear-weapons.html)," *New York Times,* January 5, 2018.
+Cohn, Carol.  "{{% resource_link "9a6c2d02-ece9-4f86-a590-23bd0098f8ba" "The Perils of Mixing Masculinity and Missiles" %}}," *New York Times,* January 5, 2018.
 
-Cairo, Lahore, and Wau. "[The Perils of Polygamy: The Link Between Polygamy and War - Plural Marriage, Bred of Inequality, Begets Violence](https://www.economist.com/christmas-specials/2017/12/19/the-link-between-polygamy-and-war)." *The Economist*, December 19, 2017.
+Cairo, Lahore, and Wau. "{{% resource_link "40d7c5d7-72f5-422a-a75b-4f88629c77e6" "The Perils of Polygamy: The Link Between Polygamy and War - Plural Marriage, Bred of Inequality, Begets Violence" %}}." *The Economist*, December 19, 2017.
 
 *Polygamy causes war by intensifying competition for wealth among men, which causes violence (see, e.g., bloody conflicts for cattle in South Sudan). Polygamy also makes for cruel, dysfunctional families and for child abuse. Some abused children then become abusers themselves. So it goes.*
 
-Lee, James R. "[Global Warming is Just the Tip of the Iceberg](http://www.washingtonpost.com/wp-dyn/content/article/2009/01/02/AR2009010202280.html)," *Washington Post,* January 4, 2009.
+Lee, James R. "{{% resource_link "c4952d7f-fd84-438b-bbf7-3c57c36396ad" "Global Warming is Just the Tip of the Iceberg" %}}," *Washington Post,* January 4, 2009.
 
 *Global warming will cause war. Specifically, warming will create vast flooding and desertification, which will create hordes of refugees, who will clash with those in their new host-countries. Warming will also open new conflicts between states, who will quarrel over newly-valuable mineral rights in the now-ice-free arctic. What fun! And another happy thought: will warming create a new rationale for anti-western WMD terror by societies that are destroyed by warming and blame the industrial west for causing it?*
 
-Van Evera, Stephen. "[Primed for Peace: Europe After the Cold War](https://www.jstor.org/stable/pdf/2538906.pdf?seq=1#page_scan_tab_contents)." *International Security* 15, no. 3 (1990 / 91): 7–57. \*Read pp. 25–32.
+Van Evera, Stephen. "{{% resource_link "e301fb91-f8ff-47e6-9b8b-d2c1b2f7405d" "Primed for Peace: Europe After the Cold War" %}}." *International Security* 15, no. 3 (1990 / 91): 7–57. \*Read pp. 25–32.
 
 *On the impact of "social imperialism" (regime illegitimacy), undemocratic / authoritarian rule, democracy, social and economic stratification, and revolutionary regimes as causes of war.*
 
-Pettersson, Therése, and Peter Wallensteen. "[Armed Conflicts, 1946–2014](http://journals.sagepub.com/doi/10.1177/0022343315595927)." *Journal of Peace Research* 52, no. 4 (2015): 536–50.
+Pettersson, Therése, and Peter Wallensteen. "{{% resource_link "2e714b80-fa2c-4ce0-a720-eade7ea0a34f" "Armed Conflicts, 1946–2014" %}}." *Journal of Peace Research* 52, no. 4 (2015): 536–50.
 
 *Forty armed conflicts were ongoing in 27 places worldwide in 2014, when the data reported here was collected. Of these 40 conflicts, 11 have seen at least 1000 battle deaths and thus rise to the level or "wars," using the common definition. Conflicts are fewer than the post-1945 peak year of 1991 (when 51 conflicts were ongoing), but more than the trough year of 2010, (31 ongoing) and far more than 1946 (17 ongoing). Annual battle deaths reached a post-Cold War peak in 2014 at 101,400, due largely to the great violence of the Syrian civil war. However, fatalities are still lower than during the second half of the last century, which saw great bloodletting in several episodes (the wars in Korea, Vietnam, Afghanistan, Angola, Iran-Iraq, Congo, and Ethiopia-Eritrea).*
 
@@ -239,7 +239,7 @@ Smoke, Richard. "The Seven Years War." Chapter 8 in *War: Controlling Escalation
 
 *Smoke's chapter is a good historical synopses of this war. What general theories of war causes does his account support? How might this war have been prevented? By whom?*
 
-Higonnet, Patrice Louis-René. "[The Origins of the Seven Years War](https://www.journals.uchicago.edu/doi/10.1086/240165)." *Journal of Modern History* 40, no. 1 (1968), pp. 57–90.
+Higonnet, Patrice Louis-René. "{{% resource_link "58ad087b-ed78-4bdd-a23c-ad4b11a24e23" "The Origins of the Seven Years War" %}}." *Journal of Modern History* 40, no. 1 (1968), pp. 57–90.
 
 *More color on the misperceptions that fueled the Seven Years' War.*
 
@@ -275,13 +275,13 @@ Joll, James. "The July Crisis, 1914." Chapter 2 in *The Origins of the First Wor
 
 \[RO\] "Overview: Wilhelm the Last, a German Trauma." 
 
-\[RO\] Chapter 1: The 'Soul Murder' of an Heir to the Throne. \[Preview with [Google Books](https://books.google.com/books?id=wf8OBAAAQBAJ&pg=PA3=onepage#v=onepage&q&f=false)\]
+\[RO\] Chapter 1: The 'Soul Murder' of an Heir to the Throne. \[Preview with {{% resource_link "25095b60-a75c-4782-9565-817a1aac11f4" "Google Books" %}}\]
 
-\[RO\] Chapter 2: Ambivalent Motherhood. \[Preview with [Google Books](https://books.google.com/books?id=wf8OBAAAQBAJ&pg=PA10=onepage#v=onepage&q&f=false)\]
+\[RO\] Chapter 2: Ambivalent Motherhood. \[Preview with {{% resource_link "ba661d97-5f19-4593-912f-a0c33714bc34" "Google Books" %}}\]
 
 \[RO\] Chapter 3: A Daring Educational Experiment.
 
-\[RO\] Chapter 4: The Conflict Between the Prince of Prussia and His Parents. \[Preview with [Google Books](https://books.google.com/books?id=wf8OBAAAQBAJ&pg=PA22=onepage#v=onepage&q&f=false)\]
+\[RO\] Chapter 4: The Conflict Between the Prince of Prussia and His Parents. \[Preview with {{% resource_link "a0c66b1b-6358-4bfe-b6c5-4e978108fe2b" "Google Books" %}}\]
 
 *Germany's Kaiser Wilhelm II was very powerful and profoundly neurotic. He was crippled, abused, and unloved as a child. As an adult he was naricissistic, given to intense rages, unable to focus for long on anything, and easily manipulated by others. He ruled Germany during 1888–1918. What could possibly go wrong?*
 
@@ -339,7 +339,7 @@ Langsam, Walter Consuelo. "Nationalism and History in the Prussian Elementary Sc
 
 *German elementary and high schools were channels of nationalist propaganda.*
 
-*For more on World War I origins see the* [*World War I Document Archive*](https://wwi.lib.byu.edu/index.php/Main_Page). 
+*For more on World War I origins see the* {{% resource_link "6b74f21b-3e71-4977-8c41-fa5961136087" "*World War I Document Archive*" %}}. 
 
 *And for more on the role of German public opinion in causing the war see specifically:*
 
@@ -349,7 +349,7 @@ Mommsen, Wolfgang J. "Nationalism, Imperialism and Official Press Policy in Wilh
 
 *An excellent BBC film on WWI origins and aftermath hosted by historian Max Hastings.* Eminent historians John *Röhl, Hew Strachan, Annika Mombauer and Michael Howard are interviewed:*
 
-[The Necessary War (WWI Documentary) (BBC)](https://www.youtube.com/watch?v=aU1HzdhEPbw). YouTube. July 3, 2015.
+{{% resource_link "fcf11761-ec0b-4bca-bfb6-ff22b0bbcb3f" "The Necessary War (WWI Documentary) (BBC)" %}}. YouTube. July 3, 2015.
 
 *Additional information:*
 
@@ -363,7 +363,7 @@ Berghahn, V.R. "Chronological Table." In *Germany and the Approach of War in 191
 
 Gilbert, Martin. "Map: Germany in Defeat." In *Atlas of the First World War*. Dorset House Publishing, 1984, pp. 144. 
 
-[Wilhelm II in the uniform of the Garde de Corps (JPEG)](https://commons.wikimedia.org/wiki/Wilhelm_II.,_Deutscher_Kaiser#/media/File:Wilhelm_II._1905.jpeg).
+{{% resource_link "69520c17-a436-483d-808e-bbdf143b091c" "Wilhelm II in the uniform of the Garde de Corps (JPEG)" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15–18
@@ -381,11 +381,11 @@ World War II
 
 *A good basic history of the events leading up to World War II.*
 
-\[H\] Pp. 3–165. \[Preview with [Google Books](https://books.google.com/books?id=k2-ZkIvt35QC&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[H\] Pp. 3–165. \[Preview with {{% resource_link "bbc7bae3-1de3-4c78-9e9c-4ee2728c9dae" "Google Books" %}}\]
 
 *Haffner focuses on Adolf Hitler and his striking personal attributes as key causes of the war.*
 
-Herwig, Holger H. ["Clio Deceived: Patriotic Self- Censorship in Germany After the Great War." (PDF - 2.5MB)](https://muse.jhu.edu/article/446344/pdf) *International Security* 12, no. 2 (1987): 5–44. 
+Herwig, Holger H. {{% resource_link "45a538a0-79b3-4513-9264-003ba454ffce" "\"Clio Deceived: Patriotic Self- Censorship in Germany After the Great War.\" (PDF - 2.5MB)" %}} *International Security* 12, no. 2 (1987): 5–44. 
 
 *Germans mis-remembered the origins and aftermath of the First World War. They thought Britain and Russia caused the war, while Germany was innocent! Young Germans widely learned this lie in German schools during 1939.*
 
@@ -407,7 +407,7 @@ Sagan, Scott D. "The Origins of the Pacific War." In *The Origin and Prevention 
 
 \[I\] Chapter 3: The Military: Authoritarianism and Irrational.
 
-\[I\] Chapter 4: The Beginning: Aggression in China. \[Preview with [Google Books](https://books.google.com/books?id=49bWRrBQP74C&pg=PA57=onepage#v=onepage&q&f=false)\]
+\[I\] Chapter 4: The Beginning: Aggression in China. \[Preview with {{% resource_link "e8448aa4-ae50-47b7-831c-1d2811cd6381" "Google Books" %}}\]
 
 \[I\] Chapter 5: The War in China: A Clash of Political Values.
 
@@ -419,11 +419,11 @@ Sagan, Scott D. "The Origins of the Pacific War." In *The Origin and Prevention 
 
 *Was Japan's decision for war a rational response to circumstances, or in some sense "irrational"? Ienaga and Sagan disagree--who's right?*
 
-Goldhagen, Daniel Jonah. "['Hitler's Willing Executioners': An Exchange](https://www.nybooks.com/articles/1997/02/06/hitlers-willing-executioners-an-exchange/)." *New York Review of Books,* February 6, 1997.
+Goldhagen, Daniel Jonah. "{{% resource_link "575acfc4-9c51-4765-8972-52080034b117" "'Hitler's Willing Executioners': An Exchange" %}}." *New York Review of Books,* February 6, 1997.
 
 *A summary of Goldhagen's famous argument that Germany committed the holocaust because most Germans embraced an eliminationist anti-semitism. How could we test Goldhagen's argument?*
 
-Kristof, Nicholas D. "[Tokyo Journal; A Tojo Battles History, for Grandpa and for Japan](https://www.nytimes.com/1999/04/22/world/tokyo-journal-a-tojo-battles-history-for-grandpa-and-for-japan.html)," *New York Times,* April 22, 1999.
+Kristof, Nicholas D. "{{% resource_link "ebb8ca8f-9531-4e80-b59d-246d9b10874c" "Tokyo Journal; A Tojo Battles History, for Grandpa and for Japan" %}}," *New York Times,* April 22, 1999.
 
 *Japanese whitewashing of Japan's role in World War II continued into the 1990s, and up to the present, stirring suspicion and anger elsewhere in Asia.*
 
@@ -439,7 +439,7 @@ Nuclear Weapons, Nuclear Strategy, Other Weapons of Mass Destruction and the Cau
 
 {{< tdclose >}}{{< tdopen >}}
 
-\[IK\] Chapter 1: The Purpose of Fighting. \[Preview with [Google Books](https://books.google.com/books?id=WXswYABYlJ4C&pg=PA1=onepage#v=onepage&q&f=false)\]
+\[IK\] Chapter 1: The Purpose of Fighting. \[Preview with {{% resource_link "af9647d2-0262-4cdc-b4c1-2294dd738de2" "Google Books" %}}\]
 
 \[IK\] Chapter 2: The Fog of Military Estimates. 
 
@@ -455,27 +455,27 @@ Nuclear Weapons, Nuclear Strategy, Other Weapons of Mass Destruction and the Cau
 
 *A basic rundown of the issues.*
 
-\[R\] Chapter 1: Prologue. \[Preview with [Google Books](https://books.google.com/books?id=2NNfIXyttn4C&pg=PA1=onepage#v=onepage&q&f=false)\]
+\[R\] Chapter 1: Prologue. \[Preview with {{% resource_link "22c8c8ad-ee05-4382-ab07-0392b259c29f" "Google Books" %}}\]
 
-\[R\] Chapter 2: Technology Shock. \[Preview with [Google Books](https://books.google.com/books?id=2NNfIXyttn4C&pg=PA9=onepage#v=onepage&q&f=false)\]
+\[R\] Chapter 2: Technology Shock. \[Preview with {{% resource_link "f7fc7e07-f9ba-4e92-9c04-45ad0dde32fa" "Google Books" %}}\]
 
-\[R\] Chapter 4: Post-2000 Threats: Terror and Error.  \[Preview with [Google Books](https://books.google.com/books?id=2NNfIXyttn4C&pg=PA41=onepage#v=onepage&q&f=false)\]
+\[R\] Chapter 4: Post-2000 Threats: Terror and Error.  \[Preview with {{% resource_link "4ae19401-dda2-411a-8e62-fbb97ade4854" "Google Books" %}}\]
 
 \[R\] Chapter 6: Slowing Science Down? 
 
 *The advance of science has a fearsome byproduct: we are discovering ever more powerful means of destruction. These destructive powers are being democratized: the mayhem that only major states can do today may lie within the capacity of millions of individuals in the future unless we somehow change course. Deterrence works against states but will fail against crazed non- state organizations or individuals. How can the spread of destructive powers be controlled?*
 
-For more on controlling the longterm bioweapons danger see: Steinbruner, John, Elisa D. Harris, Nancy Gallagher, et al. [*Controlling Dangerous Pathogens: A Prototype Protective Oversight System*. (PDF - 3MB)](https://drum.lib.umd.edu/handle/1903/7949) The Center for International and Security Studies at Maryland, March 2007.
+For more on controlling the longterm bioweapons danger see: Steinbruner, John, Elisa D. Harris, Nancy Gallagher, et al. {{% resource_link "04a2755a-3dba-4e65-89b9-73a94d3ead73" "*Controlling Dangerous Pathogens: A Prototype Protective Oversight System*. (PDF - 3MB)" %}} The Center for International and Security Studies at Maryland, March 2007.
 
-Kelly, Henry C. "[Terrorism and the Biology Lab](https://www.nytimes.com/2003/07/02/opinion/terrorism-and-the-biology-lab.html)," *New York Times*, July 2, 2003.
+Kelly, Henry C. "{{% resource_link "851d7ffd-08bd-4062-8426-9b9bc39a02a0" "Terrorism and the Biology Lab" %}}," *New York Times*, July 2, 2003.
 
 *The research of biologists, if unregulated, could produce discoveries that gravely threaten our safety. Biologists must develop a strategy to keep biology from being used for destructive ends.*
 
-Regalado, Antonio. "[Top U.S. Intelligence Official Calls Gene Editing a WMD Threat](https://www.technologyreview.com/s/600774/top-us-intelligence-official-calls-gene-editing-a-wmd-threat/)." *Technology Review,* February 9, 2016.
+Regalado, Antonio. "{{% resource_link "05dc45df-16fe-4b68-b435-4598b7789eda" "Top U.S. Intelligence Official Calls Gene Editing a WMD Threat" %}}." *Technology Review,* February 9, 2016.
 
 *The wolf that worried Henry Kelly--new ultra- lethal biotechnology (see previous reading)--is at our door. Recent advances in gene editing, embodied in the CRISPR editing method, will spread the power to create new bioagents hither and yon, including to nihilistic terrorists and psychopaths. The only way to reliably prevent the use of weapons of mass destruction (WMD) is deterrence, but these bad actors are not deterrable. U.S. director of national intelligence James Clapper warned of this danger in 2016, declaring CRISPR--a product of the U.S. scientific community--to be a threat to U.S. national security. Wow! Has the bioengineering science community created a grave threat?*
 
-Park, Alice. "[A New Technique That Lets Scientists Edit DNA Is Transforming Science-And Raising Difficult Questions](http://time.com/4379503/crispr-scientists-edit-dna/)," *Time,* June 23, 2016.
+Park, Alice. "{{% resource_link "07bb0b0a-bfc7-49c7-aa3c-34bfbc4ef9c4" "A New Technique That Lets Scientists Edit DNA Is Transforming Science-And Raising Difficult Questions" %}}," *Time,* June 23, 2016.
 
 *The vast medical benefits of CRISPR are outlined here. Are they worth the risks?*
 
@@ -491,9 +491,9 @@ Paterson Thomas G., J. Garry Clifford, and Kenneth J. Hagan. "Something Old, Som
 
 Halliday, Jon. "Revisiting History: A Secret War: U.S. and Soviet Air Forces Clashed Directly in Korea." *Far Eastern Economic Review*, April 22, 1993.
 
-Faison, Jr., Seth. "[Mao's Cable Explains Drive Into Korea](https://www.nytimes.com/1992/02/26/world/mao-s-cable-explains-drive-into-korea.html)," *New York Times*, February 26, 1992.
+Faison, Jr., Seth. "{{% resource_link "97700fc3-aa63-4a4f-bf12-e865c7b416c0" "Mao's Cable Explains Drive Into Korea" %}}," *New York Times*, February 26, 1992.
 
-Zedong, Mao. "[Mao's 2 Telegrams on Korea](https://www.nytimes.com/1992/02/26/world/mao-s-2-telegrams-on-korea.html)," *New York Times*, February 26, 1992.
+Zedong, Mao. "{{% resource_link "10ca5845-c149-446f-8bb8-50d31b7c7060" "Mao's 2 Telegrams on Korea" %}}," *New York Times*, February 26, 1992.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22–23
@@ -517,17 +517,17 @@ Shlaim, Avi. "The Middle East: Origins of the Arab-Israeli Wars." Chapter 10 in 
 
 *Highlights of the Arab-Israeli wars of 1948, 1967, 1969–70, 1973, and 1982 and the Persian Gulf War of 1991 are outlined here.*
 
-al-Mughrabi, Nidal. "[Hamas Says Still Seeks Israel's Destruction](https://www.reuters.com/article/us-palestinians-qaeda/hamas-says-still-seeks-israels-destruction-idUSL1229777020070312)." Reuters. March 12, 2007.  
+al-Mughrabi, Nidal. "{{% resource_link "e6d32b39-4f7e-43a4-a532-5934fec6e934" "Hamas Says Still Seeks Israel's Destruction" %}}." Reuters. March 12, 2007.  
 
 *Does extremist Islam fuel the Israeli-Palestinian conflict? Hamas adheres to a stated goal of destroying Israel. Why? A Hamas statement declares that "we will not betray promises we made to God."*
 
-Shavit, Ari. "[Survival of the Fittest](https://www.haaretz.com/1.5262454)," *Haaretz,* January 8, 2004.
+Shavit, Ari. "{{% resource_link "cf9158eb-3594-4a50-93ed-7bbfec8d148d" "Survival of the Fittest" %}}," *Haaretz,* January 8, 2004.
 
 *Shavit interviews Benny Morris, one of Israel's leading historians, on the realities and ethics of Israel's expulsion of 700,000–750,000 Palestinians during the 1948 war. In the 1980s Morris led in exposing the expulsion; he later became a prominent defender of it, arguing that sometimes ethnic cleansing is necessary, and that Israel's 1948 expulsion did not go far enough.*
 
 *The article has two parts; only the first part is assigned (to the end of the section on "Rape, Massacre, Transfer.") The second part (which starts with "When Ethnic Cleansing is Justified") is included for your delectation; it is not assigned.*
 
-Bumiller, Elisabeth. "[Was a Tyrant Prefigured by Baby Saddam?](https://www.nytimes.com/2004/05/15/books/was-a-tyrant-prefigured-by-baby-saddam.html)," *New York Times,* May 15, 2004.
+Bumiller, Elisabeth. "{{% resource_link "56009f9c-dbf7-4f2f-b237-e802f36bec4b" "Was a Tyrant Prefigured by Baby Saddam?" %}}," *New York Times,* May 15, 2004.
 
 *Saddam Hussein was severely abused as a child and as a result suffered narcissism and other personality disorders. Does this help explain the 1991 and 2003 Iraq wars? Can the U.S. deter or coerce such people if it better understands their personal demons?*
 
@@ -537,7 +537,7 @@ Stoessinger, John G. "New Wars for a New Century: America and the World of Islam
 
 *For more color on Saddam Hussein's pre-war perceptions see:*
 
-Woods, Kevin R., with Michael R. Pease, Mark E. Stout, et al. [*Iraqi Perspectives Project: A View of Operation Iraqi Freedom from Saddam's Senior Leadership.* (PDF - 8MB)](https://www.hsdl.org/?abstract&did=461392) Joint Center for Operational Analysis, 2006, pp. 1–32. (Not assigned.)
+Woods, Kevin R., with Michael R. Pease, Mark E. Stout, et al. {{% resource_link "69991741-0fa3-4ef6-80b8-b9d92bba35af" "*Iraqi Perspectives Project: A View of Operation Iraqi Freedom from Saddam's Senior Leadership.* (PDF - 8MB)" %}} Joint Center for Operational Analysis, 2006, pp. 1–32. (Not assigned.)
 
 *What was Saddam Hussein thinking? Answers are found here.*
 
@@ -565,7 +565,7 @@ Solutions to War
 
 {{< tdclose >}}{{< tdopen >}}
 
-Kaysen, Carl. "[Is War Obsolete? A Review Essay](https://www.jstor.org/stable/2538750?seq=1#page_scan_tab_contents)" *International Security* 14, no. 4 (1990): 42–64.
+Kaysen, Carl. "{{% resource_link "7ec08e6b-8e9e-431a-b2cb-136cfe36279f" "Is War Obsolete? A Review Essay" %}}" *International Security* 14, no. 4 (1990): 42–64.
 
 *Kaysen says past causes of war are already gone. But if he's right, why does war continue?*
 
@@ -575,7 +575,7 @@ Kaysen, Carl. "[Is War Obsolete? A Review Essay](https://www.jstor.org/stable/25
 
 *Do you think they would work? (Why haven't they been implemented yet?)*
 
-Robbins, Carla Anne. "[Thinking the Unthinkable: A World Without Nuclear Weapons](https://www.nytimes.com/2008/06/30/opinion/30mon4.html)," *New York Times,* June 30, 2008.
+Robbins, Carla Anne. "{{% resource_link "91977d2c-0e01-475b-ac97-a074342d37bf" "Thinking the Unthinkable: A World Without Nuclear Weapons" %}}," *New York Times,* June 30, 2008.
 
 *Former Republican Secretaries of State George Shultz and Henry Kissinger, former Democratic Secretary of Defense William Perry, and former Senate Armed Services Committee Chairman Sam Nunn--all former nuclear hawks--want to pursue global nuclear disarmament. A radical idea from very establishment people. Should we do this?*
 
@@ -585,22 +585,22 @@ Huntington, Samuel P. "The Global Politics of Civilizations: Islam and the West.
 
 *The future will see a clash of the world's great religions.*
 
-Benjamin, Daniel, and Steven Simon. "Ibn Taymiyya and His Children." Chapter 2 in *The Age of Sacred Terror: Radical Islam's War Against America.* Random House Trade Paperbacks, 2003, pp. 38–55, 61–68, 91–94. ISBN: 9780812969849. \[Preview with [Google Books](https://books.google.com/books?id=-5VBDwAAQBAJ&pg=PA38=onepage#v=onepage&q&f=false)\] (Review again)
+Benjamin, Daniel, and Steven Simon. "Ibn Taymiyya and His Children." Chapter 2 in *The Age of Sacred Terror: Radical Islam's War Against America.* Random House Trade Paperbacks, 2003, pp. 38–55, 61–68, 91–94. ISBN: 9780812969849. \[Preview with {{% resource_link "55bc4948-313e-4026-b02a-489ac7f7f256" "Google Books" %}}\] (Review again)
 
-———. "A World of Terror." Chapter 12 in *The Age of Sacred Terror: Radical Islam's War Against America*. Random House Trade Paperbacks, 2003. ISBN: 9780812969849. \[Preview with [Google Books](https://books.google.com/books?id=-5VBDwAAQBAJ&pg=PA419=onepage#v=onepage&q&f=false)\] (Review again)
+———. "A World of Terror." Chapter 12 in *The Age of Sacred Terror: Radical Islam's War Against America*. Random House Trade Paperbacks, 2003. ISBN: 9780812969849. \[Preview with {{% resource_link "9bae00fd-7e60-426e-ab47-3505810ec6ec" "Google Books" %}}\] (Review again)
 
 \[R\] Chapter 4: Post-2000 Threats: Terror and Error. (Review again)
 
 \[R\] Chapter 6: Slowing Science Down? (Review again)
 
-Allison, Graham. "[Thinking the Unthinkable with North Korea](https://www.nytimes.com/2017/05/30/opinion/north-korea-nuclear-crisis-donald-trump.html)," *New York Times*, May 30, 2017.
+Allison, Graham. "{{% resource_link "3a78e233-7879-44c3-b878-f2307a1e389c" "Thinking the Unthinkable with North Korea" %}}," *New York Times*, May 30, 2017.
 
 *A war in Korea could grow to become a U.S.-China war, again as in October–November 1950. The U.S. attacks North Korea's nuclear forces; North Korea attacks Seoul, killing several hundred thousand people; South Korea massively attacks North Korea; China enters the war, attacking South Korea to save North Korea; the U.S. attacks China to save South Korea. Oh dear!*
 
-Allison, Graham. "[How Trump and China's Xi Could Stumble into War](https://www.washingtonpost.com/posteverything/wp/2017/03/31/how-trump-and-chinas-xi-could-stumble-into-war/?noredirect=on&utm_term=.d424f632406d),*" Washington Post,* March 31, 2017.
+Allison, Graham. "{{% resource_link "52d58dbf-04ab-4669-a5b9-83f713cff1e7" "How Trump and China's Xi Could Stumble into War" %}},*" Washington Post,* March 31, 2017.
 
 *Aside from Korea, a U.S.-China war could also erupt from conflict over Taiwan, or control of the South China Sea, or islands contested between Japan and China. The Thucydides trap--the dangers that arise when a rising power is overtaking a hegemonic power--makes all U.S.- China flashpoints dangerous.*
 
-Narang, Vipin. "[Why Kim Jong Un Wouldn't Be Irrational to Use a Nuclear Bomb First](https://www.washingtonpost.com/outlook/why-kim-jong-un-wouldnt-be-irrational-to-use-a-nuclear-bomb-first/2017/09/08/a9d36ca4-934f-11e7-aace-04b862b2b3f3_story.html?utm_term=.7ebc4193091e)," *Washington Post,* September 8, 2017. (Review again)
+Narang, Vipin. "{{% resource_link "9d8b5f81-f5ce-4c19-924a-148aa5a4f555" "Why Kim Jong Un Wouldn't Be Irrational to Use a Nuclear Bomb First" %}}," *Washington Post,* September 8, 2017. (Review again)
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
