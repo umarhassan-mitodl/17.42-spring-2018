@@ -4,8 +4,6 @@ description: ''
 file: /courses/17-42-causes-and-prevention-of-war-spring-2018/ec9183e03eda1025f665b46b7e284bec_MIT17_42S18_lec19_MassDestruct.pdf
 file_size: 68900
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

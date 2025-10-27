@@ -4,8 +4,6 @@ description: ''
 file: /courses/17-42-causes-and-prevention-of-war-spring-2018/add2f76fc592308576e8ba29c6312b8a_MIT17_42S18_lec20-21_ColdWar.pdf
 file_size: 49478
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

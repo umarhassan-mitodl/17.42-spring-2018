@@ -4,8 +4,6 @@ description: ''
 file: /courses/17-42-causes-and-prevention-of-war-spring-2018/d54293bb2ebb8682a4bf1eaa423bc05e_MIT17_42S18_lec22_IsraelArab.pdf
 file_size: 51938
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: ''
 file: /courses/17-42-causes-and-prevention-of-war-spring-2018/ed5552778edd7853066465d11bd322fe_MIT17_42S18_lec19_IntenseWar.pdf
 file_size: 40155
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
